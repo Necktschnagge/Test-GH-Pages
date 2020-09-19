@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<object data="https://github.com/Necktschnagge/recipes/raw/gh-pages/book.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Necktschnagge/recipes/raw/gh-pages/book.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Necktschnagge/recipes/raw/gh-pages/book.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
